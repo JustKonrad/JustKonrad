@@ -17,6 +17,8 @@ Final-year IT student specializing in Systems, Networking & Cloud Computing.
 
 Currently working as a System & Network Administrator Intern while building cloud and DevOps projects.
 
+Building hands-on cloud and automation projects in personal labs and school projects.
+
 ## 🌍 Location
 📍 Paris, France  
 ➡️ Moving to Warsaw, Poland by September/October 2026
