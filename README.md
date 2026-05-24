@@ -19,7 +19,7 @@ Currently working as a System & Network Administrator Intern while building clou
 
 ## 🌍 Location
 📍 Paris, France  
-➡️ Moving to Warsaw, Poland in October 2026
+➡️ Moving to Warsaw, Poland by September/October 2026
 
 ## 🔗 Links
 - LinkedIn: https://linkedin.com/in/justkonrad
