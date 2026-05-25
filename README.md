@@ -81,6 +81,7 @@ $ git log --oneline
 → Exploring Grafana + Prometheus monitoring stacks
 → Preparing for AWS Solutions Architect certification
 → Learning more Polish 🇵🇱 before moving to Warsaw
+```
 
 ---
 
