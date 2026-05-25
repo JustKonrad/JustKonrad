@@ -4,7 +4,7 @@
 
 ### Junior DevOps & Cloud Engineer
 
-*Final-year Master's student @ ESGI Paris · Relocating to Warsaw 🇵🇱 Oct 2026*
+*Final-year Master's student @ ESGI Paris · Relocating to Warsaw 🇵🇱 Sep/Oct 2026*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-justkonrad.github.io-0ea5e9?style=for-the-badge)](https://justkonrad.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-justkonrad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justkonrad)
