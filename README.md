@@ -44,6 +44,6 @@ Building hands-on cloud and automation projects in personal labs and school proj
 
 ## 📊 GitHub Stats
 
-![Konrad's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustKonrad&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustKonrad&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustKonrad&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustKonrad&layout=compact&theme=tokyonight" />
