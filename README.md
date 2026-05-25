@@ -41,9 +41,3 @@ Building hands-on cloud and automation projects in personal labs and school proj
 ![Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-success?style=for-the-badge&logo=cisco&logoColor=white)
 ![IoT](https://img.shields.io/badge/Cisco-IoT-brightgreen?style=for-the-badge&logo=cisco&logoColor=white)
 ![AI](https://img.shields.io/badge/Cisco-Modern_AI-purple?style=for-the-badge&logo=cisco&logoColor=white)
-
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JustKonrad&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustKonrad&layout=compact&theme=tokyonight" />
