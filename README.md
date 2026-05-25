@@ -36,8 +36,6 @@ Building hands-on cloud and automation projects in personal labs and school proj
 
 ## 🏆 Certifications & Cisco Badges
 
-## 🏆 Certifications & Cisco Badges
-
 ![CCNA](https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco&logoColor=white)
 ![Networking](https://img.shields.io/badge/Cisco-Networking-informational?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-success?style=for-the-badge&logo=cisco&logoColor=white)
