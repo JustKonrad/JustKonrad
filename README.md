@@ -72,7 +72,7 @@ status: open_to_work ✅
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Currently working on
 
 <div align="center">
 
