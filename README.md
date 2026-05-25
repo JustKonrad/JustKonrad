@@ -31,4 +31,4 @@ Building hands-on cloud and automation projects in personal labs and school proj
 - AWS & Terraform
 - Kubernetes
 - CI/CD automation
-- Cloud-native infrastructuree
+- Cloud-native infrastructure
