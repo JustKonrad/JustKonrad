@@ -79,8 +79,6 @@ $ git log --oneline
 → Building cloud-native infra with Terraform & AWS EKS
 → Automating CI/CD pipelines with GitLab & Docker
 → Exploring Grafana + Prometheus monitoring stacks
-→ Preparing for AWS Solutions Architect certification
-→ Learning more Polish 🇵🇱 before moving to Warsaw
 ```
 
 ---
