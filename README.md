@@ -99,4 +99,3 @@ $ git log --oneline
 📍 Paris, France &nbsp;→&nbsp; Warsaw, Poland (Oct 2026) &nbsp;|&nbsp; 💼 Open to Junior DevOps / Cloud roles
 
 </div>
-.
